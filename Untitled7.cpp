@@ -4,7 +4,7 @@
 //kiem tra tinh chat cac phan tu trong mang dem so luong nguyen to, dem so nguyen to, dem so chan,
 //dem so le, so hoan hao
 //lon nhat , nho nhat 
-//sap xem ,tim kiem (DA CO VIDEO) TIM KIEM VA MAY CAI TRONG C++ TAT CA O TRON C++ NHA DC DE CU A
+//sap xem ,tim kiem (DA CO VIDEO) TIM KIEM VA MAY CAI TRONG C++ TAT CA O TRONG C++ NHA DC DE CU A
 //mang cong don
 //cua so truot, hai con tro 
 
